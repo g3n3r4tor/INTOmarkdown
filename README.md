@@ -21,13 +21,14 @@ Gekk mjog lettilega
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 <https://github.com/g3n3r4tor/INTOPrufa>
 ## 4. Uppsettur hugbúnaður
-* Vim GPL-compatible <www.vim.org/sources.php>
-* GIT GNU GPL <git-scm.com/about>
-* Ubuntu Mainly GNU GPL <www.ubuntu.com>
+* Vim GPL-compatible <http://www.vim.org/sources.php>
+* GIT GNU GPL <http://www.git-scm.com/about>
+* Ubuntu Mainly GNU GPL <http://www.ubuntu.com>
 
 * VideoLan - Vlc media player 
-  * Source code <download.videolan.org/pub/videolan/vlc/2.1.0/vlc-2.1.0.tar.xz>
+  * Source code <http://www.videolan.org/vlc/download-sources.html>
   * License <http://www.gnu.org/copyleft/gpl.html>
+
 ## 5. Unnið með Git (2. hluti)
 
 Allt kom vel út, ekkert vandamál
