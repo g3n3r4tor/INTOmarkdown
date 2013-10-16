@@ -22,8 +22,16 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 <https://github.com/g3n3r4tor/INTOPrufa>
 ## 4. Uppsettur hugbúnaður
 * Vim GPL-compatible <http://www.vim.org/sources.php>
-* GIT GNU GPL <http://www.git-scm.com/about>
+  * Source code <http://www.vim.org/sources.php>
+  * License <http://vimdoc.sourceforge.net/htmldoc/uganda.html#license>
+
+* GIT GNU GPL 
+  * Source code <https://github.com/git/git>
+  * License <http://opensource.org/docs/osd>
+
 * Ubuntu Mainly GNU GPL <http://www.ubuntu.com>
+  * Source code <http://cdimage.ubuntu.com/releases/12.04/release/source/>
+  * License <http://www.ubuntu.com/about/about-ubuntu/licensing>
 
 * VideoLan - Vlc media player 
   * Source code <http://www.videolan.org/vlc/download-sources.html>
