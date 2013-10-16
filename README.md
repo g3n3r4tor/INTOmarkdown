@@ -25,6 +25,9 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 * GIT GNU GPL <git-scm.com/about>
 * Ubuntu Mainly GNU GPL <www.ubuntu.com>
 
+* VideoLan - Vlc media player 
+  * Source code <download.videolan.org/pub/videolan/vlc/2.1.0/vlc-2.1.0.tar.xz>
+  * License <http://www.gnu.org/copyleft/gpl.html>
 ## 5. Unnið með Git (2. hluti)
 
 Allt kom vel út, ekkert vandamál
