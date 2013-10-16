@@ -8,7 +8,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 Gekk audveldlega ad setja upp usb boot version af Ubuntu 
-![Ubuntu](http://i.imgur.com&BxB6I4H.png)
+![Ubuntu](http://i.imgur.com/BxB6I4H.png)
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
